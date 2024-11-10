@@ -1,4 +1,4 @@
-&physical_layout0 {
+&cornehub_layout {
     kscan = <&kscan0>;
     transform = <&matrix_transform0>;
 };
